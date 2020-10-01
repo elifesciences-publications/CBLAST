@@ -1,3 +1,6 @@
+This code is associated with the paper from Scheffer et al., "A connectome and analysis of the adult <i>Drosophila</i> central brain". eLife, 2020. http://doi.org/10.7554/eLife.57443
+
+
 # CBLAST
 Cluster neurons based on synaptic connectivity to derive cell types.
 
